@@ -1,7 +1,7 @@
 package books
 
-var BOOKS = []string{
-	"Rendezvous with Rama",
-	"The Caves of Steel",
-	"The Complete Robot",
+var Books = map[string]string{
+	"1": "Rendezvous with Rama",
+	"2": "The Caves of Steel",
+	"3": "The Complete Robot",
 }
